@@ -13,4 +13,13 @@
         android:textColor="#000000"
         android:textSize="30sp"
         android:textStyle="bold" />
+
+    <Button
+        android:id="@+id/btn1"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@color/design_default_color_primary"
+        android:text="PUSH"
+        android:textColor="#fff" />
 </LinearLayout>

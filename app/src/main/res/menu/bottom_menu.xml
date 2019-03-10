@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:title="Pertama"
-        android:icon="@mipmap/ic_launcher_round"></item>
+        android:icon="@mipmap/facebook"></item>
     <item android:title="Kedua"
-        android:icon="@mipmap/ic_launcher_round"></item>
+        android:icon="@mipmap/gplus"></item>
     <item android:title="Ketiga"
-        android:icon="@mipmap/ic_launcher_round"></item>
+        android:icon="@mipmap/instagram"></item>
     <item android:title="Keempat"
-        android:icon="@mipmap/ic_launcher_round"></item>
+        android:icon="@mipmap/twitter"></item>
     <item android:title="Kelima"
-        android:icon="@mipmap/ic_launcher_round"></item>
+        android:icon="@mipmap/path"></item>
 </menu>

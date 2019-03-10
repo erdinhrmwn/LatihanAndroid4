@@ -14,8 +14,6 @@
         android:id="@+id/bottomNav"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_gravity="bottom">
-
-    </com.aurelhubert.ahbottomnavigation.AHBottomNavigation>
+        android:layout_gravity="bottom" />
 
 </android.support.design.widget.CoordinatorLayout>

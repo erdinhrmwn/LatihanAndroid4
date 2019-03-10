@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
+ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
 MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.1.0.aar\d2e99df330b44cb7aa1ef9c0c8d5479a\AndroidManifest.xml:2:1-13:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\398758a6a6060f2adf8ff28015aa80dc\AndroidManifest.xml:17:1-24:12
 MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0.aar\86442ac1b5456a05f94cdbe392aa954d\AndroidManifest.xml:17:1-22:12
@@ -36,25 +36,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\trainer\.gradle\c
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\da031c66df9ef676a9e0428342733971\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\2d12b1ec8a9367ef1b3f8b82e674c52f\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\d41768ff7a1bf3621b0aba8ed18fc59e\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
-INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
+INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
 	package
 		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:3:5-42
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-21:12
+		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:1-22:12
 		INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:5:5-19:19
+ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:5:5-20:19
 MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.1.0.aar\d2e99df330b44cb7aa1ef9c0c8d5479a\AndroidManifest.xml:11:5-20
 MERGED from [com.aurelhubert:ahbottomnavigation:2.1.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\ahbottomnavigation-2.1.0.aar\d2e99df330b44cb7aa1ef9c0c8d5479a\AndroidManifest.xml:11:5-20
 MERGED from [com.android.support:design:28.0.0] C:\Users\trainer\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\398758a6a6060f2adf8ff28015aa80dc\AndroidManifest.xml:22:5-20
@@ -93,6 +93,10 @@ category#android.intent.category.LAUNCHER
 ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:16:17-77
 	android:name
 		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:16:27-74
+activity#com.example.latihanandroid4.tampilanDepan.PageKedua
+ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:19:9-60
+	android:name
+		ADDED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml:19:19-58
 uses-sdk
 INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\trainer\AndroidStudioProjects\LatihanAndroid4\app\src\main\AndroidManifest.xml
